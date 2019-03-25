@@ -13,6 +13,6 @@ public class HelloWorldController {
 
     @RequestMapping("/")
     public String sayHello() {
-        return "Hello,kubernetes!";
+        return "Hello,world!";
     }
 }
