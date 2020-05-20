@@ -13,7 +13,7 @@ spec:
   spec:
    containers:
    - name: java-pod
-     image: xiaoqi8866/test-java
+     image: mypicbed.top:8016/jiama/test-java
      ports:
      - containerPort: 8080
 ---
