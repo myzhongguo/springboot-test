@@ -22,6 +22,7 @@ kind: Service
 metadata:
  name: java-service
 spec:
+ type: NodePort
  ports:
  - port: 8080
    nodePort: 38080
