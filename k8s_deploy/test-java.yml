@@ -24,5 +24,6 @@ metadata:
 spec:
  ports:
  - port: 8080
+   nodePort: 38080
  selector:
   name: java-pod
