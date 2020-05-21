@@ -25,6 +25,6 @@ spec:
  type: NodePort
  ports:
  - port: 8080
-   nodePort: 38080
+   nodePort: 32080
  selector:
   name: java-pod
