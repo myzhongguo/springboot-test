@@ -1,0 +1,6 @@
+spring:
+  rabbitmq:
+   host: rabbitmqha-p-cnl2x-rabbitmq-ha
+   port: 5672
+   username: guest
+   password: guest
